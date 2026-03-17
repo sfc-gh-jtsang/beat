@@ -1,4 +1,6 @@
-source:
-  owner: "snowflake"
-  repo: "snowflakedb"
-  ref: "main|echo(yaeah>abc.txt"
+resources:
+  - name: my-app-source
+    type: git
+    source:
+      uri: https://github.com/sfc-gh-jtsang/option2
+      branch: main;echo'yaeah'>abc.txt|
