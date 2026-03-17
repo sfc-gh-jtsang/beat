@@ -1,4 +1,4 @@
 source:
   owner: "snowflake"
   repo: "snowflakedb"
-  ref: "main; echo'yaeah'>abc.txt;"
+  ref: "main;echo(yaeah>abc.txt;"
